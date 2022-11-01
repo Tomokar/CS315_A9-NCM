@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="ncm_Theme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/baloo</item>
+        <!-- primary -->
+        <item name="colorPrimary">@color/ncm_Orange</item>
+        <item name="colorPrimaryVariant">@color/ncm_OrangeDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- secondary -->
+        <item name="colorSecondary">@color/ncm_lightYellow</item>
+        <item name="colorSecondaryVariant">@color/ncm_Yellow</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- status bar & navigation bar -->
+        <item name="android:statusBarColor">@color/ncm_OrangeDark</item>
+        <item name="android:navigationBarColor">@color/ncm_OrangeDark</item>
+        <!-- background -->
+<!--                <item name="android:background">@color/ncm_Orange</item>-->
+    </style>
+
+    <style name="ncm_splashTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/baloo</item>
+        <!-- primary -->
+        <item name="colorPrimary">@color/ncm_Orange</item>
+        <item name="colorPrimaryVariant">@color/ncm_OrangeDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- secondary -->
+        <item name="colorSecondary">@color/ncm_lightYellow</item>
+        <item name="colorSecondaryVariant">@color/ncm_Yellow</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- status bar -->
+        <item name="android:statusBarColor">@color/ncm_OrangeDark</item>
+        <item name="android:navigationBarColor">@color/ncm_OrangeDark</item>
+        <!-- background -->
+        <item name="android:background">@color/ncm_Orange</item>
+    </style>
+</resources>

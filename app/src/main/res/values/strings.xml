@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">That Darn Chat</string>
+    <string name="dev_name">Pumpkin Pontifex</string>
+
+    <string name="register_text">Register</string>
+    <string name="enteremail_text">Enter your Email</string>
+    <string name="enterpass_text">Enter your Password</string>
+    <string name="login_text">Login</string>
+    <string name="logreg_text">Login/Register</string>
+    <string name="logout_text">Log Out</string>
+    <string name="input_hint">Input Message</string>
+    <string name="fab_icon">Send Icon</string>
+</resources>
